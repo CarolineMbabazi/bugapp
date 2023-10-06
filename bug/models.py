@@ -20,3 +20,7 @@ class Bug(models.Model):
     report_date = models.DateTimeField(auto_now=True)
     status = models.CharField(max_length=20, choices=STATUS, default="to do")
 
+    # Display bug description in admin panel
+    def __str__(self):
+        return self.description
+
