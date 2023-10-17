@@ -17,4 +17,3 @@ This process assumes you have Python installed on your computer.
 
 ## Screenshot
 ![](assets/bug_app_screenshot.png)
-
