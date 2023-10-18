@@ -17,3 +17,8 @@ This process assumes you have Python installed on your computer.
 
 ## Screenshot
 ![](assets/bug_app_screenshot.png)
+
+## Task three
+1. Created a Bug Registration View
+2. Bug registration html template
+3. Bug list view
