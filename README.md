@@ -22,3 +22,7 @@ This process assumes you have Python installed on your computer.
 1. Created a Bug Registration View
 2. Bug registration html template
 3. Bug list view
+
+## Task four
+1. Wrote automated tests of the bug model
+2. Wote automated tests of the bug views
